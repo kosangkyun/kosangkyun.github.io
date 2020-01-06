@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Ko Sang-Kyun"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "I'm **Sang Kyun**"
   location         : "Seoul"
   email            : highsg19101@gmail.com
@@ -153,7 +153,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/k___________o/"
 
 
 # Reading Files
