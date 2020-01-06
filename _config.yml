@@ -21,7 +21,7 @@ title                    : "highsg study notes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ko Sang-Kyun"
-description              : "An amazing website."
+description              : "highsg study or research notes"
 url                      : "kosangkyun.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Ko Sang-Kyun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I'm **Sang Kyun**"
   location         : "Seoul"
   email            : highsg19101@gmail.com
