@@ -110,9 +110,9 @@ analytics:
 author:
   name             : "Ko Sang-Kyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            : highsg19101@gmail.com or ksg19101@hanyang.ac.kr
+  bio              : "I'm **Sang Kyun**"
+  location         : "Seoul"
+  email            : highsg19101@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
