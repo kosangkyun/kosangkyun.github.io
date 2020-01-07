@@ -1,6 +1,6 @@
 ---
-title: "TEST POST"
-date: 2017-10-20 08:26:28 -0400
+title: "[1] Bayesian Methods"
+date: 2020-01-07 12:35:28 -0400
 categories: jekyll update
 ---
 본문 적어보자 
