@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "^0^"
+title                    : "HIGHSG STUDY NOTES"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ko Sang-Kyun"
@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Ko Sang-Kyun"
-  avatar           : "image/prof2.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Sang-Kyun Ko is an master's student in the Departement of Computer Science at Hanyang University. He is studying machine learning from his interest in computer science. Especially he is in the field of machine learning, research on a generative model applicable to Natural Language Processing."
   location         : "222 Wangsimni-ro, Seongdong-gu, Seoul 04763, Korea"
   email            : highsg19101@gmail.com
