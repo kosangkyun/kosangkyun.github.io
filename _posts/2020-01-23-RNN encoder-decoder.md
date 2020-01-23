@@ -1,7 +1,6 @@
 ---
-title: "[1] Bayesian Methods"
-date: 2020-01-07 12:35:28 -0400
-categories: DataScience MachineLearning
+title: "[2] RNN encoder-decoder"
+date: 2020-01-23 12:35:28 -0400
+categories: DataScience MachineLearning NLP
 ---
-본문 적어보자 
-$$ A+B $$
+Let's learn RNN encoder-decoder
