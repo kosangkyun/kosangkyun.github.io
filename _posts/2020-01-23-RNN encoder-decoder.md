@@ -4,4 +4,4 @@ date: 2020-01-23 12:35:28 -0400
 categories: DataScience MachineLearning NLP
 ---
 Let's learn RNN encoder-decoder
-$$ \theta + \pi = 33
+$$ \theta + \pi = 33 $$
